@@ -1,6 +1,6 @@
 import { GambaStandardTokens, TokenMeta } from 'gamba-react-ui-v2'
 
-export const PLATFORM_CREATOR_ADDRESS = 'BT8CiUWnUBJMYorZngm5rkKWikm9F8MTQkj1SueJc4qt'
+export const PLATFORM_CREATOR_ADDRESS = 'HBQpKxK2Wdscn4kEBZWyXQ2GuCAEVeH6yinVnc736MVL'
 
 /** Appears in ShareModal */
 export const PLATFORM_SHARABLE_URL = 'v2-play.gamba.so'
